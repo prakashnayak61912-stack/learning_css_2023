@@ -1,0 +1,26 @@
+h3{
+    color: orange;
+    background-color: aquamarine;
+    font-size: 40px;
+}
+p{
+    color: black;
+    background-color: aliceblue;
+    font-size: 26px;
+}
+thead,tfoot{
+    color: red;
+    background-color: yellowgreen;
+    font-size: 23px;
+}
+tbody{
+    color:white;
+    background-color: blue;
+    font-size: 22px;
+
+}
+capation{
+    color: blueviolet;
+    font-size: 38px;
+    text-align:right;
+}
