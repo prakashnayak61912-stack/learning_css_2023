@@ -1,0 +1,104 @@
+
+body{
+    margin: 0; 
+    font-family: Arial;
+    background-color: #f2f2f2;
+}
+/*Header*/
+.header{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+/*Navigation*/
+.nav{
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+.nav a{
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+/*Container*/
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+/*Boxes*/
+.box{
+    background-color: white;
+    width: 250px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+}
+/*Button*/
+button{
+    background-color: brown;
+    color: white;
+    border:none;
+    padding:10px 20px;
+    cursor:pointer;
+}
+/*Footer*/
+.x{
+    background-color:brown;
+    color:white;
+    text-align: center;
+    padding:15px;
+    margin-top: 40px;
+}
+.y{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:whitesmoke;
+}
+.z{
+    background-color:brown;
+    color:white;
+    text-align: center;
+    padding: 15px;
+    margin-top:40px ;
+
+}
+table{
+    background-color:rgba(222, 184, 135, 0.323);
+    text-align: center;
+    width: 600px;
+    padding: 20px;
+    margin:80px;
+    margin-top: 0px;
+}
+thead{
+    background-color:darkorchid;
+}
+h2{
+    text-align: center;
+}
+.u{
+    background-color:antiquewhite(21, 108, 5);
+    text-align: center;
+    padding: 20px;
+    color:black;
+}
+.p{
+    background-color: rgba(85, 123, 10, 0.358);
+    text-align: center;
+    color:black;
+}
+h3{
+    text-align: center;
+    padding: 20px;
+    margin-top: 0px;
+}
+p{
+    text-align: center;
+}
+
