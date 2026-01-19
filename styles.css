@@ -95,5 +95,30 @@ background-color: blue;
 .f_family5{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.heading1{
+    border: 20px solid red;
+
+}
+.rel{
+    background-color: aqua;
+    height: 1000px;
+    width: 1000px;
+}
+#tv{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    color: brown;
+    border: 6px solid red;
+}
+#sofa{
+    position: absolute;
+    border: 6px solid green;
+    height: 100px;
+    width: 250px;
+    background-color: red;
+    left: 80px;
+    top:120px;
+}
 
 
